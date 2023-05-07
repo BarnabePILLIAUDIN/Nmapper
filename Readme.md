@@ -17,6 +17,7 @@ You can also choose options like
 
 ## How to setup
 
-- Create a .env.local file with the following fields
-  `SUDO_PASSWORD=<Your sudo password> `
-  `DB_URI=<Your db uri>`
+Create a .env.local file with the following fields
+
+- `SUDO_PASSWORD=<Your sudo password> `
+- `DB_URI=<Your db uri>`
