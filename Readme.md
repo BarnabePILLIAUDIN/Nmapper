@@ -19,3 +19,4 @@ You can also choose options like
 
 - Create a .env.local file with the following fields
   `SUDO_PASSWORD=<Your sudo password> `
+  `DB_URI=<Your db uri>`
